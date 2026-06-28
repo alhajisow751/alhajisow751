@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I am currently serving in the United States Air Force, while<br>attending the University of Arizona Global Campus <br>pursuing a bachelor's degree with a major in Cyber<br>Security.<br>I'm currently working on a sports prediction <br>model named Wyvern Projections. <br>I am currently learning about Cyber Security <br>through TryHackMe's platform. I am also learning about<br>Machine learning and AI Engineering. 
+I am currently serving in the United States Air Force, while<br>attending the University of Arizona Global Campus <br>pursuing a bachelor's degree with a major in Cyber<br>Security.<br>I'm currently working on a sports prediction <br>model named Wyvern Projections. <br>I am currently learning about Cyber Security <br>through TryHackMe's platform as well as a specialization from Coursera. I am also learning about<br>Machine learning and AI Engineering. 
 
 
 ## 🌐 Socials:
